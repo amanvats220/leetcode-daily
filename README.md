@@ -1,82 +1,77 @@
-# 🚀 LeetCode Daily Challenge Journey (365 Days)
+# 🚀 LeetCode Daily Challenge – 365 Days
 
 Welcome to my **LeetCode Daily Practice Repository**.
-In this repository, I will be solving **one Data Structures & Algorithms problem every day for 365 days** and uploading the solution here.
 
-This journey is part of my goal to improve my **problem-solving skills, coding consistency, and preparation for technical interviews.**
-
----
-
-## 🎯 Goal
-
-* Solve **1 LeetCode problem every day**
-* Maintain a **GitHub contribution streak**
-* Strengthen **Data Structures & Algorithms**
-* Prepare for **Software Engineering interviews**
+In this repository, I am solving **1 LeetCode problem every day for 365 days** and uploading the solutions here to improve my **Data Structures & Algorithms skills** and maintain **consistent coding practice**.
 
 ---
 
-## 📅 Daily Progress
+# 🎯 Goals
 
-| Day    | Problem        | Solution            |
-| ------ | -------------- | ------------------- |
-| Day 01 | Two Sum        | `day01_two_sum.cpp` |
-| Day 02 | Reverse String | Coming Soon         |
-| Day 03 | Coming Soon    | Coming Soon         |
-
-This table will be updated **daily** as I continue the challenge.
+* Solve **1 LeetCode problem daily**
+* Maintain **GitHub contribution streak**
+* Improve **problem solving ability**
+* Prepare for **technical interviews**
 
 ---
 
-## 🧠 Topics Covered
+# 📅 Progress Tracker
 
-During this journey, I will cover the following topics:
+| Day    | Problem                                           | Solution                       |
+| ------ | ------------------------------------------------- | ------------------------------ |
+| Day 01 | [Two Sum](https://leetcode.com/problems/two-sum/) | [View Code](day01_two_sum.cpp) |
+| Day 02 | Coming Soon                                       | Coming Soon                    |
+| Day 03 | Coming Soon                                       | Coming Soon                    |
+
+---
+
+# 🧠 Topics Covered
+
+During this journey I will practice:
 
 * Arrays
 * Strings
 * Hash Maps
 * Linked Lists
-* Stacks
-* Queues
+* Stack
+* Queue
 * Trees
 * Graphs
 * Recursion
 * Dynamic Programming
-* Greedy Algorithms
 * Sliding Window
 * Two Pointers
 * Backtracking
 
 ---
 
-## 🛠️ Language Used
+# 🛠 Language Used
 
 * **C++**
 
 ---
 
-## 💪 Motivation
-
-Consistency beats intensity.
-Even solving **one problem a day** can lead to **365 problems in a year**, which significantly improves algorithmic thinking.
-
----
-
-## 📌 Repository Structure
+# 📂 Repository Structure
 
 ```
 leetcode-daily
 │
 ├── day01_two_sum.cpp
-├── day02_reverse_string.cpp
-├── day03_palindrome_number.cpp
+├── day02_problem.cpp
+├── day03_problem.cpp
 └── README.md
 ```
 
 ---
 
-## ⭐ Let's Connect
+# 💡 Motivation
 
-If you're also practicing DSA, feel free to explore the solutions and learn along with me.
+> Consistency beats intensity.
 
-Happy Coding! 🚀
+If I solve **1 problem every day**, I will complete:
+
+**365 problems in 1 year** 🚀
+
+---
+
+⭐ Feel free to explore the solutions and follow along the journey.
