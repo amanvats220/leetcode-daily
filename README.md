@@ -20,7 +20,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day    | Problem                                           | Solution                       |
 | ------ | ------------------------------------------------- | ------------------------------ |
 | Day 01 | [Two Sum](https://leetcode.com/problems/two-sum/) | [View Code](day01_two_sum.cpp) |
-| Day 02 | Coming Soon                                       | Coming Soon                    |
+| Day 02 | [Climb Stairs](https://leetcode.com/problems/two-sum/)| [View Code](day02_climbing_stairs.cpp)| 
 | Day 03 | Coming Soon                                       | Coming Soon                    |
 
 ---
