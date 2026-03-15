@@ -22,6 +22,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 01 | [Two Sum](https://leetcode.com/problems/two-sum/) | [View Code](day01_two_sum.cpp) |
 | Day 02 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)| [View Code](day02_climbing_stairs.cpp)| 
 | Day 03 | [Power Of Two](https://leetcode.com/problems/power-of-two/description/)  | [View Code](day03_power_of_two.cpp) |
+| Day 04 | [Power Of Three](https://leetcode.com/problems/power-of-three/description/)  | [View Code](day04_power_of_three.cpp) |
 
 ---
 
@@ -57,8 +58,9 @@ During this journey I will practice:
 leetcode-daily
 │
 ├── day01_two_sum.cpp
-├── day02_problem.cpp
-├── day03_problem.cpp
+├── day02_climbing_stairs.cpp
+├── day03_power_of_two.cpp
+├── day04_power_of_three.cpp
 └── README.md
 ```
 
