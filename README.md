@@ -23,6 +23,9 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 02 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)| [View Code](day02_climbing_stairs.cpp)| 
 | Day 03 | [Power Of Two](https://leetcode.com/problems/power-of-two/description/)  | [View Code](day03_power_of_two.cpp) |
 | Day 04 | [Power Of Three](https://leetcode.com/problems/power-of-three/description/)  | [View Code](day04_power_of_three.cpp) |
+| Day 05 | [Power Of Four](https://leetcode.com/problems/power-of-four/description/)  | [View Code](day05_power_of_four.cpp) |
+| Day 06 | [Add Digits](https://leetcode.com/problems/add-digits/description/)  | [View Code](day06_add_digits.cpp) |
+| Day 07 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)  | [View Code](day07_reverse_integer.cpp) |
 
 ---
 
@@ -61,6 +64,9 @@ leetcode-daily
 ├── day02_climbing_stairs.cpp
 ├── day03_power_of_two.cpp
 ├── day04_power_of_three.cpp
+├── day05_power_of_four.cpp
+├── day06_add_digits.cpp
+├── day07_reverse_integer.cpp
 └── README.md
 ```
 
