@@ -26,6 +26,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 05 | [Power Of Four](https://leetcode.com/problems/power-of-four/description/)  | [View Code](day05_power_of_four.cpp) |
 | Day 06 | [Add Digits](https://leetcode.com/problems/add-digits/description/)  | [View Code](day06_add_digits.cpp) |
 | Day 07 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)  | [View Code](day07_reverse_integer.cpp) |
+| Day 08 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)  | [View Code](day08_palindrome.cpp) |
 
 ---
 
@@ -67,6 +68,7 @@ leetcode-daily
 ├── day05_power_of_four.cpp
 ├── day06_add_digits.cpp
 ├── day07_reverse_integer.cpp
+├── day08_palindrome.cpp
 └── README.md
 ```
 
