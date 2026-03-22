@@ -27,7 +27,10 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 06 | [Add Digits](https://leetcode.com/problems/add-digits/description/)  | [View Code](day06_add_digits.cpp) |
 | Day 07 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)  | [View Code](day07_reverse_integer.cpp) |
 | Day 08 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)  | [View Code](day08_palindrome.cpp) |
-
+| Day 09 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)  | [View Code](day09_reverse_bits.cpp) |
+| Day 10 | [Square Root(x)](https://leetcode.com/problems/sqrtx/description/)  | [View Code](day10_sqrt_x.cpp) |
+| Day 11 | [Remove Element](https://leetcode.com/problems/remove-element/description/)  | [View Code](day11_remove_element.cpp) |
+| Day 12 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)  | [View Code](day12_remove_duplicates.cpp) |
 ---
 
 # 🧠 Topics Covered
@@ -69,6 +72,10 @@ leetcode-daily
 ├── day06_add_digits.cpp
 ├── day07_reverse_integer.cpp
 ├── day08_palindrome.cpp
+├── day09_reverse_bits.cpp
+├── day10_sqrt_x.cpp
+├── day11_remove_element.cpp
+├── day12_remove_duplicates.cpp
 └── README.md
 ```
 
