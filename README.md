@@ -31,6 +31,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 10 | [Square Root(x)](https://leetcode.com/problems/sqrtx/description/)  | [View Code](day10_sqrt_x.cpp) |
 | Day 11 | [Remove Element](https://leetcode.com/problems/remove-element/description/)  | [View Code](day11_remove_element.cpp) |
 | Day 12 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)  | [View Code](day12_remove_duplicates.cpp) |
+| Day 13 | [Water Bottles](https://leetcode.com/problems/water-bottles/description/)  | [View Code](day13_water_bottles.cpp) |
 ---
 
 # 🧠 Topics Covered
@@ -76,6 +77,7 @@ leetcode-daily
 ├── day10_sqrt_x.cpp
 ├── day11_remove_element.cpp
 ├── day12_remove_duplicates.cpp
+├── day13_water_bottles.cpp
 └── README.md
 ```
 
