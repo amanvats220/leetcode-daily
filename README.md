@@ -32,6 +32,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 11 | [Remove Element](https://leetcode.com/problems/remove-element/description/)  | [View Code](day11_remove_element.cpp) |
 | Day 12 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)  | [View Code](day12_remove_duplicates.cpp) |
 | Day 13 | [Water Bottles](https://leetcode.com/problems/water-bottles/description/)  | [View Code](day13_water_bottles.cpp) |
+| Day 14 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)  | [View Code](day14_fibonacci.cpp) |
 ---
 
 # 🧠 Topics Covered
@@ -78,6 +79,7 @@ leetcode-daily
 ├── day11_remove_element.cpp
 ├── day12_remove_duplicates.cpp
 ├── day13_water_bottles.cpp
+├── day14_fibonacci.cpp
 └── README.md
 ```
 
