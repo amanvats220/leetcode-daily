@@ -34,6 +34,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 13 | [Water Bottles](https://leetcode.com/problems/water-bottles/description/)  | [View Code](day13_water_bottles.cpp) |
 | Day 14 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)  | [View Code](day14_fibonacci.cpp) |
 | Day 15 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/)  | [View Code](day15_subtract_product_sum.cpp) |
+| Day 16 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)  | [View Code](day16_move_zeroes.cpp) |
 ---
 
 # 🧠 Topics Covered
@@ -82,6 +83,7 @@ leetcode-daily
 ├── day13_water_bottles.cpp
 ├── day14_fibonacci.cpp
 ├── day15_subtract_product_sum.cpp
+├── day16_move_zeroes.cpp
 └── README.md
 ```
 
