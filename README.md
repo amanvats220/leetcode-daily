@@ -35,6 +35,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 14 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)  | [View Code](day14_fibonacci.cpp) |
 | Day 15 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/)  | [View Code](day15_subtract_product_sum.cpp) |
 | Day 16 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)  | [View Code](day16_move_zeroes.cpp) |
+| Day 17 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/)  | [View Code](day17_kth_missing_positive.cpp) |
 ---
 
 # 🧠 Topics Covered
@@ -84,6 +85,7 @@ leetcode-daily
 ├── day14_fibonacci.cpp
 ├── day15_subtract_product_sum.cpp
 ├── day16_move_zeroes.cpp
+├── day17_kth_missing_positive.cpp
 └── README.md
 ```
 
