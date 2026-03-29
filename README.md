@@ -37,6 +37,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 16 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)  | [View Code](day16_move_zeroes.cpp) |
 | Day 17 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/)  | [View Code](day17_kth_missing_positive.cpp) |
 | Day 18 | [Plus One](https://leetcode.com/problems/plus-one/description/)  | [View Code](day18_plus_one.cpp) |
+| Day 19 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)  | [View Code](day19_pow_x_n.cpp) |
 ---
 
 # 🧠 Topics Covered
@@ -88,10 +89,10 @@ leetcode-daily
 ├── day16_move_zeroes.cpp
 ├── day17_kth_missing_positive.cpp
 ├── day18_plus_one.cpp
+├── day19_pow_x_n.cpp
 └── README.md
 ```
 
----
 
 # 💡 Motivation
 
