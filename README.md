@@ -39,6 +39,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 18 | [Plus One](https://leetcode.com/problems/plus-one/description/)  | [View Code](day18_plus_one.cpp) |
 | Day 19 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)  | [View Code](day19_pow_x_n.cpp) |
 | Day 20 | [Happy Number](https://leetcode.com/problems/happy-number/description/)  | [View Code](day20_happy_number.cpp) |
+| Day 21 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)  | [View Code](day21_find_peak_element.cpp) |
 ---
 
 # 🧠 Topics Covered
@@ -92,6 +93,7 @@ leetcode-daily
 ├── day18_plus_one.cpp
 ├── day19_pow_x_n.cpp
 ├── day20_happy_number.cpp
+├── day21_find_peak_element.cpp
 └── README.md
 ```
 
