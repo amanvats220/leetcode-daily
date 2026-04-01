@@ -40,6 +40,9 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 19 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)  | [View Code](day19_pow_x_n.cpp) |
 | Day 20 | [Happy Number](https://leetcode.com/problems/happy-number/description/)  | [View Code](day20_happy_number.cpp) |
 | Day 21 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)  | [View Code](day21_find_peak_element.cpp) |
+| Day 22 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)  | [View Code](day22_roman_to_integer.cpp) |
+
+
 ---
 
 # 🧠 Topics Covered
@@ -94,6 +97,7 @@ leetcode-daily
 ├── day19_pow_x_n.cpp
 ├── day20_happy_number.cpp
 ├── day21_find_peak_element.cpp
+├── day22_roman_to_integer.cpp
 └── README.md
 ```
 
