@@ -42,6 +42,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 21 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)  | [View Code](day21_find_peak_element.cpp) |
 | Day 22 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)  | [View Code](day22_roman_to_integer.cpp) |
 | Day 23 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)  | [View Code](day23_intersection_of_two_arrays.cpp) |
+| Day 24 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)  | [View Code](day24_integer_to_roman.cpp) |
 
 ---
 
@@ -99,6 +100,7 @@ leetcode-daily
 ├── day21_find_peak_element.cpp
 ├── day22_roman_to_integer.cpp
 ├── day23_intersection_of_two_arrays.cpp
+├── day24_integer_to_roman.cpp
 └── README.md
 ```
 
