@@ -44,6 +44,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 23 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)  | [View Code](day23_intersection_of_two_arrays.cpp) |
 | Day 24 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)  | [View Code](day24_integer_to_roman.cpp) |
 | Day 25 | [Find First Occurrence](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)  | [View Code](day25_find_first_occurrence.cpp) |
+| Day 26 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)  | [View Code](day26_peak_index_in_mountain_array.cpp) |
 
 ---
 
@@ -103,6 +104,7 @@ leetcode-daily
 ├── day23_intersection_of_two_arrays.cpp
 ├── day24_integer_to_roman.cpp
 ├── day25_find_first_occurrence.cpp
+├── day26_peak_index_in_mountain_array.cpp
 └── README.md
 ```
 
