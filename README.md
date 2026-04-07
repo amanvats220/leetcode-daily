@@ -46,6 +46,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 25 | [Find First Occurrence](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)  | [View Code](day25_find_first_occurrence.cpp) |
 | Day 26 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)  | [View Code](day26_peak_index_in_mountain_array.cpp) |
 | Day 27 | [Majority Element](https://leetcode.com/problems/majority-element/description/)  | [View Code](day27_majority_element.cpp) |
+| Day 28 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)  | [View Code](day28_factorial_trailing_zeroes.cpp) |
 ---
 
 # 🧠 Topics Covered
@@ -106,6 +107,7 @@ leetcode-daily
 ├── day25_find_first_occurrence.cpp
 ├── day26_peak_index_in_mountain_array.cpp
 ├── day27_majority_element.cpp
+├── day28_factorial_trailing_zeroes.cpp
 └── README.md
 ```
 
