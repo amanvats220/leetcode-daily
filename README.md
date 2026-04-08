@@ -47,6 +47,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 26 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)  | [View Code](day26_peak_index_in_mountain_array.cpp) |
 | Day 27 | [Majority Element](https://leetcode.com/problems/majority-element/description/)  | [View Code](day27_majority_element.cpp) |
 | Day 28 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)  | [View Code](day28_factorial_trailing_zeroes.cpp) |
+| Day 29 | [Nim Game](https://leetcode.com/problems/nim-game/description/)  | [View Code](day29_nim_game.cpp) |
 ---
 
 # 🧠 Topics Covered
@@ -108,6 +109,7 @@ leetcode-daily
 ├── day26_peak_index_in_mountain_array.cpp
 ├── day27_majority_element.cpp
 ├── day28_factorial_trailing_zeroes.cpp
+├── day29_nim_game.cpp
 └── README.md
 ```
 
