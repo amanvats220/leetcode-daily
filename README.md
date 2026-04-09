@@ -48,6 +48,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 27 | [Majority Element](https://leetcode.com/problems/majority-element/description/)  | [View Code](day27_majority_element.cpp) |
 | Day 28 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)  | [View Code](day28_factorial_trailing_zeroes.cpp) |
 | Day 29 | [Nim Game](https://leetcode.com/problems/nim-game/description/)  | [View Code](day29_nim_game.cpp) |
+| Day 30 | [Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/)  | [View Code](day30_water_bottles_ii.cpp) |
 ---
 
 # 🧠 Topics Covered
@@ -110,6 +111,7 @@ leetcode-daily
 ├── day27_majority_element.cpp
 ├── day28_factorial_trailing_zeroes.cpp
 ├── day29_nim_game.cpp
+├── day30_water_bottles_ii.cpp
 └── README.md
 ```
 
