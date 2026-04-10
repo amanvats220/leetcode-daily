@@ -49,6 +49,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 28 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)  | [View Code](day28_factorial_trailing_zeroes.cpp) |
 | Day 29 | [Nim Game](https://leetcode.com/problems/nim-game/description/)  | [View Code](day29_nim_game.cpp) |
 | Day 30 | [Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/)  | [View Code](day30_water_bottles_ii.cpp) |
+| Day 31 | [Binary Search](https://leetcode.com/problems/binary-search/description/)  | [View Code](day31_binary_search.cpp) |
 ---
 
 # 🧠 Topics Covered
@@ -112,6 +113,7 @@ leetcode-daily
 ├── day28_factorial_trailing_zeroes.cpp
 ├── day29_nim_game.cpp
 ├── day30_water_bottles_ii.cpp
+├── day31_binary_search.cpp
 └── README.md
 ```
 
