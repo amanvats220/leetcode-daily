@@ -50,6 +50,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 29 | [Nim Game](https://leetcode.com/problems/nim-game/description/)  | [View Code](day29_nim_game.cpp) |
 | Day 30 | [Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/)  | [View Code](day30_water_bottles_ii.cpp) |
 | Day 31 | [Binary Search](https://leetcode.com/problems/binary-search/description/)  | [View Code](day31_binary_search.cpp) |
+| Day 32 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/description/)  | [View Code](day32_minimum_time_visiting_all_points.cpp) |
 ---
 
 # 🧠 Topics Covered
@@ -114,6 +115,7 @@ leetcode-daily
 ├── day29_nim_game.cpp
 ├── day30_water_bottles_ii.cpp
 ├── day31_binary_search.cpp
+├── day32_minimum_time_visiting_all_points.cpp
 └── README.md
 ```
 
