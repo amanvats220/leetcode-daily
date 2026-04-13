@@ -52,6 +52,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 31 | [Binary Search](https://leetcode.com/problems/binary-search/description/)  | [View Code](day31_binary_search.cpp) |
 | Day 32 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/description/)  | [View Code](day32_minimum_time_visiting_all_points.cpp) |
 | Day 33 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)  | [View Code](day33_pascal's_triangle.cpp) |
+| Day 34 | [Jump Game](https://leetcode.com/problems/jump-game/description/)  | [View Code](day34_jump_game.cpp) |
 ---
 
 # 🧠 Topics Covered
@@ -118,6 +119,7 @@ leetcode-daily
 ├── day31_binary_search.cpp
 ├── day32_minimum_time_visiting_all_points.cpp
 ├── day33_pascal's_triangle.cpp
+├── day34_jump_game.cpp
 └── README.md
 ```
 
