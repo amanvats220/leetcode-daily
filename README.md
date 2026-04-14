@@ -53,6 +53,8 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 32 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/description/)  | [View Code](day32_minimum_time_visiting_all_points.cpp) |
 | Day 33 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)  | [View Code](day33_pascal's_triangle.cpp) |
 | Day 34 | [Jump Game](https://leetcode.com/problems/jump-game/description/)  | [View Code](day34_jump_game.cpp) |
+| Day 35 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)  | [View Code](day35_valid_anagram.cpp) |
+    
 ---
 
 # 🧠 Topics Covered
@@ -120,6 +122,7 @@ leetcode-daily
 ├── day32_minimum_time_visiting_all_points.cpp
 ├── day33_pascal's_triangle.cpp
 ├── day34_jump_game.cpp
+├── day35_valid_anagram.cpp
 └── README.md
 ```
 
