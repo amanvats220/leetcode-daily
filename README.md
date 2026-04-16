@@ -55,6 +55,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 34 | [Jump Game](https://leetcode.com/problems/jump-game/description/)  | [View Code](day34_jump_game.cpp) |
 | Day 35 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)  | [View Code](day35_valid_anagram.cpp) |
 | Day 36 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)  | [View Code](day36_concatenation_of_array.cpp) |
+| Day 37 | [Pivot Integer](https://leetcode.com/problems/pivot-integer/description/)  | [View Code](day37_pivot_element.cpp) |
     
 ---
 
@@ -125,6 +126,7 @@ leetcode-daily
 ├── day34_jump_game.cpp
 ├── day35_valid_anagram.cpp
 ├── day36_concatenation_of_array.cpp
+├── day37_pivot_element.cpp
 └── README.md
 ```
 
