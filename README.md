@@ -57,6 +57,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 36 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)  | [View Code](day36_concatenation_of_array.cpp) |
 | Day 37 | [Pivot Integer](https://leetcode.com/problems/pivot-integer/description/)  | [View Code](day37_pivot_element.cpp) |
 | Day 38 | [Ugly Number](https://leetcode.com/problems/ugly-number/description/)  | [View Code](day38_ugly_number.cpp) |
+| Day 39 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)  | [View Code](day39_self_dividing_number.cpp) |
 
 ---
 
@@ -129,6 +130,7 @@ leetcode-daily
 ├── day36_concatenation_of_array.cpp
 ├── day37_pivot_element.cpp
 ├── day38_ugly_number.cpp
+├── day39_self_dividing_number.cpp
 └── README.md
 ```
 
